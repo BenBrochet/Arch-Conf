@@ -6,6 +6,7 @@ Lightweight, fast, and easy to customize.
 ---
 
 ## Preview
+coming soon...
 
 ## Quick Installation
 
