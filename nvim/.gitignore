@@ -1,0 +1,12 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# LazyVim state/cache (don't track)
+plugin/
+lazy-lock.json

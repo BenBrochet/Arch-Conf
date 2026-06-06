@@ -1,0 +1,13 @@
+*.log
+tmux/plugins/
+fix.txt
+todo
+kitty/current-theme.conf
+nvim/.neoconf.json
+nvim/lazyvim.json
+nvim/LICENSE
+nvim/README.md
+nvim/stylua.toml
+nvim/lua/config/
+nvim/lua/plugins/example.lua
+bashconfigs/bashconfigs
